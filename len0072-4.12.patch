@@ -5,7 +5,7 @@ diff -Naur linux-4.12-orig/drivers/input/mouse/synaptics.c linux-4.12/drivers/in
  	"LEN0046", /* X250 */
  	"LEN004a", /* W541 */
  	"LEN200f", /* T450s */
-+	"LEN0073", /* X1 Carbon 5 */
++	"LEN0072", /* X1 Carbon 5 */
  	NULL
  };
  
